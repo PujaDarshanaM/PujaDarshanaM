@@ -33,9 +33,6 @@ Python • R • SAS • XML • JSON
 **Platforms**: DHIS2, OpenMRS  
 **Databases & Tools**: PostgreSQL, Git/GitHub, Postman
 
-### 🧰 Development & Productivity Tools
-Jupyter Notebooks • PyCharm • LaTeX • GitHub
-• `GitHub` • `LaTeX`
 ---
 
 ## 🎯 What I'm Into Right Now
