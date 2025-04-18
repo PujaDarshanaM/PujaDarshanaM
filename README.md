@@ -7,28 +7,28 @@ Thanks for stopping by! I’m a Health Informatics graduate student at Indiana U
 
 ---
 
-## 🧠 Technical Skills
+## 💻Technical Skills
 
-### 💻 Programming Languages & Frameworks
+### Programming Languages & Frameworks
 Python • R • SAS • XML • JSON
 
-### 🔍 Machine Learning & Predictive Modeling
+### Machine Learning & Predictive Modeling
 **Algorithms**: Random Forest, XGBoost, Gradient Boosting (GBM)  
 **Hyperparameter Tuning**: Optuna  
 **ML Frameworks**: PyTorch, TensorFlow  
 **Time Series & Forecasting**: Temporal Fusion Transformer, Prophet, DeepAR, ARIMA, Holt-Winters, SES, TimeSeriesAI (tsai)
 
-### 🧬 Clinical Informatics & Interoperability
+### Clinical Informatics & Interoperability
 **Health Standards**: FHIR, HL7, SNOMED, LOINC, ICD, CPT  
 **Interoperability Tools**: BlueButton API, Postman, CDA, CCD, OpenEMR, OpenELIS  
 **Privacy & Compliance**: HIPAA, GDPR, HEDIS
 
-### 📊 Data Analytics, Statistics & Visualization
+### Data Analytics, Statistics & Visualization
 **Libraries**: Pandas, NumPy, SciPy, StatsModels  
 **Visualization**: Matplotlib, Seaborn, Tableau, Power BI, Excel, Lucidchart  
 **Statistical Methods**: Hypothesis Testing, Multivariate Regression, Post Hoc Testing, Survival Analysis, Bayesian Inference
 
-### 🗃️ Data Engineering & Infrastructure
+### Data Engineering 
 **Workflows & Pipelines**: ETL Development, API Integration, Data Cleaning & Transformation, Automated Reporting  
 **Platforms**: DHIS2, OpenMRS  
 **Databases & Tools**: PostgreSQL, Git/GitHub, Postman
