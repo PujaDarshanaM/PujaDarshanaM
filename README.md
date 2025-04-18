@@ -7,33 +7,35 @@ Thanks for stopping by! I’m a Health Informatics graduate student at Indiana U
 
 ---
 
-## 🛠️ Technical Toolbox
+## 🧠 Technical Skills
 
-### 💻 Programming & Scripting Languages
-`Python` • `R` • `SQL` • `SAS` • `XML` • `JSON`
+### 💻 Programming Languages & Frameworks
+Python • R • SAS • XML • JSON
 
-### Machine Learning & Predictive Modeling
-Algorithms: `Random Forest`, `XGBoost`, `Gradient Boosting (GBM)`
-Hyperparameter Tuning: `Optuna`
-ML Frameworks: `PyTorch`, `TensorFlow`
-Time Series & Forecasting: `Temporal Fusion Transformer` • `Prophet` • `DeepAR` • `ARIMA` • `Holt-Winters` • `TimeSeriesAI (tsai)``
+### 🔍 Machine Learning & Predictive Modeling
+**Algorithms**: Random Forest, XGBoost, Gradient Boosting (GBM)  
+**Hyperparameter Tuning**: Optuna  
+**ML Frameworks**: PyTorch, TensorFlow  
+**Time Series & Forecasting**: Temporal Fusion Transformer, Prophet, DeepAR, ARIMA, Holt-Winters, SES, TimeSeriesAI (tsai)
 
 ### 🧬 Clinical Informatics & Interoperability
-Health Standards: `FHIR`, `HL7`, `SNOMED`, `LOINC`, `ICD`, `CPT`
-Interoperability Tools: `BlueButton API`, Postman 
+**Health Standards**: FHIR, HL7, SNOMED, LOINC, ICD, CPT  
+**Interoperability Tools**: BlueButton API, Postman, CDA, CCD, OpenEMR, OpenELIS  
+**Privacy & Compliance**: HIPAA, GDPR, HEDIS
 
 ### 📊 Data Analytics, Statistics & Visualization
-Libraries: `Pandas` • `NumPy` • `SciPy` • `StatsModels`
-Visualization: `Matplotlib` • `Seaborn` • `Tableau` • `Power BI` • `Excel` • `Lucidchart`
-Statistical Analysis: `Hypothesis Testing , `Multivariate Regression`, `Post Hoc Testing`
+**Libraries**: Pandas, NumPy, SciPy, StatsModels  
+**Visualization**: Matplotlib, Seaborn, Tableau, Power BI, Excel, Lucidchart  
+**Statistical Methods**: Hypothesis Testing, Multivariate Regression, Post Hoc Testing, Survival Analysis, Bayesian Inference
 
 ### 🗃️ Data Engineering & Infrastructure
-Workflow & Pipelines: `ETL Development` • `API Integration` • `Data Cleaning & Transformation`
-Data Platforms: `DHIS2` 
-Tools: `PostgreSQL` • `Git/GitHub` • `Postman`
+**Workflows & Pipelines**: ETL Development, API Integration, Data Cleaning & Transformation, Automated Reporting  
+**Platforms**: DHIS2, OpenMRS  
+**Databases & Tools**: PostgreSQL, Git/GitHub, Postman
 
 ### 🧰 Development & Productivity Tools
-`Jupyter Notebooks` • `PyCharm` • `GitHub` • `LaTeX`
+Jupyter Notebooks • PyCharm • LaTeX • GitHub
+• `GitHub` • `LaTeX`
 ---
 
 ## 🎯 What I'm Into Right Now
